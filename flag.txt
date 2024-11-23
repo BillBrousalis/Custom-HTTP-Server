@@ -1,1 +1,0 @@
-HTB{this is the flag, bitch}
